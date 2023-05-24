@@ -1,8 +1,10 @@
+_This is a fork. It was created because of power structures of the upstream repo that [@mariha](https://github.com/mariha) is not compatible with._
+
 # karrot-backend
 
 Django API server for the _karrot_ frontend
 
-Our issues are tracked in [karrot-frontend](https://github.com/karrot-dev/karrot-frontend/issues). We plan to unite karrot-backend, karrot-frontend and related repos in near future.
+Our issues are tracked in the [karrot-frontend (fork)](https://github.com/mariha/karrot-frontend/issues). We plan to unite karrot-backend, karrot-frontend and related repos in near future.
 
 [![CircleCI](https://circleci.com/gh/karrot-dev/karrot-backend/tree/master.svg?style=svg)](https://circleci.com/gh/karrot-dev/karrot-backend/tree/master)
 [![codecov](https://codecov.io/gh/karrot-dev/karrot-backend/branch/master/graph/badge.svg?token=U2gJZBxdkU)](https://codecov.io/gh/karrot-dev/karrot-backend)
